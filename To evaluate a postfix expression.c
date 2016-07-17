@@ -1,6 +1,6 @@
 /*To evaluate a postfix expression
 Auther: Raju shrestha
-Date: 7th july 2016
+Date: 17th july 2016
 Reference: Data structure book.
 */
 #include <stdio.h>
