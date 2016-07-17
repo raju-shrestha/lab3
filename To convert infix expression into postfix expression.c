@@ -1,5 +1,5 @@
 /*To convert infix expression into postfix expression
-Auther:Raju shrestha
+Auther: Raju shrestha
  Date:7th july 2016
 Reference: Data structure book.
 */
