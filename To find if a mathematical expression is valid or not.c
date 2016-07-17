@@ -1,4 +1,8 @@
-//To find if a mathematical expression is valid or not
+/*To find if a mathematical expression is valid or not.
+Auther: Raju shrestha
+Date: 7th july 2016
+Reference: Data structure book.
+*/
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
