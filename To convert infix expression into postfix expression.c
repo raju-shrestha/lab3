@@ -1,4 +1,10 @@
-#include <stdio.h>
+/*To convert infix expression into postfix expression
+Auther:Raju shrestha
+7th july 2016
+Reference: Data structure book.
+*/
+
+include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
 #include <math.h>
